@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rohitmajage.github.io/rohit-internship/sitemap.xml
+Sitemap: https://rohitmajage.github.io/rohit-majage/sitemap.xml
